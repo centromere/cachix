@@ -3,12 +3,12 @@
         "branch": "master",
         "description": "Nix function for filtering local git sources",
         "homepage": "",
-        "owner": "hercules-ci",
-        "repo": "gitignore",
-        "rev": "bff2832ec341cf30acb3a4d3e2e7f1f7b590116a",
-        "sha256": "0va0janxvmilm67nbl81gdbpppal4aprxzb25gp9pqvf76ahxsci",
+        "owner": "centromere",
+        "repo": "gitignore.nix",
+        "rev": "f0e98c8e42c2bf2ab93241f2556e24a01cffe1f2",
+        "sha256": "0kiwqmgvlf90b25d9yghxsjd18fqfwq5mv3n55f4yj4gmq5q3bpc",
         "type": "tarball",
-        "url": "https://github.com/hercules-ci/gitignore/archive/bff2832ec341cf30acb3a4d3e2e7f1f7b590116a.tar.gz",
+        "url": "https://github.com/centromere/gitignore.nix/archive/f0e98c8e42c2bf2ab93241f2556e24a01cffe1f2.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "niv": {
